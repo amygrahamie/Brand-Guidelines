@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="1280px" height="509px" viewBox="0 0 1280 509" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1280px" height="461px" viewBox="0 0 1280 461" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
     <title>Desktop Landscape</title>
     <desc>Created with Sketch.</desc>
@@ -9,9 +9,9 @@
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Desktop-Landscape">
             <text id="Amy-Elizabeth-Graham" font-family="ReenieBeanie, Reenie Beanie" font-size="45" font-weight="normal" fill="#000000">
-                <tspan x="465.811385" y="443.659574">Amy Elizabeth Graham</tspan>
+                <tspan x="465.811385" y="395.659574">Amy Elizabeth Graham</tspan>
             </text>
-            <g id="me" transform="translate(504.127527, 129.000000)">
+            <g id="me" transform="translate(504.127527, 81.000000)">
                 <mask id="mask-2" fill="white">
                     <use xlink:href="#path-1"></use>
                 </mask>

@@ -70,7 +70,6 @@ padding-bottom: .1em;}
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     margin-right: 6em;
-    padding-left: 2em;
     padding-right: 3em;
     padding-top: 1em;
     font-size: .6em;
@@ -81,6 +80,10 @@ p.example {color: darkslategray;
         font-weight: 300;
         font-size: 1em ;
     padding-top: 2em;
+}
+
+.copyright {
+    padding-left: .3em;
 }
 
 
