@@ -20,24 +20,32 @@ div.palepink {
     background-color: #F6E3ED;
 }
 
-.headings { margin-left: 3em;}
+div.lightgray {
+    background-color: #F4F4F4;
+}
+
+.headings { margin-left: 7em;}
+.headings2 { margin-left: 7em;}
 
 h1 {color: darkslategray;
     font-family: 'Open Sans:300', sans-serif;
     font-size: 2em;
     padding-bottom: .2em;
+   ;
 }
 
 h2 {color: darkslategray;
     font-family: 'Open Sans', sans-serif;
     font-size: 1.7em;
-    padding-bottom: .2em}
+    padding-bottom: .2em;
+}
 
 h3 {color: darkslategray;
     font-family: 'Open Sans', sans-serif;
     font-size: 1.5em;
     padding-bottom: .2em;
-    font-weight: 400}
+    font-weight: 400;
+   }
 
 p.body {color: darkslategray;
         font-family: 'Open Sans', sans-serif;
@@ -45,11 +53,35 @@ p.body {color: darkslategray;
         font-size: 1em ;
 }
 
+p.type {color: darkslategray;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 100;
+        font-size: .6em;
+        padding-top: .5em;
+}
+
 p {color: darkslategray;
         font-family: 'Open Sans', sans-serif;
         font-weight: 200;
     font-size: .5em;
 padding-bottom: .1em;}
+
+.paragraph {color: #5E969E;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    margin-right: 6em;
+    padding-left: 2em;
+    padding-right: 3em;
+    padding-top: 1em;
+    font-size: .6em;
+    }
+
+p.example {color: darkslategray;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 300;
+        font-size: 1em ;
+    padding-top: 2em;
+}
 
 
 font-family: 'Quicksand', sans-serif;
