@@ -1,0 +1,60 @@
+* { 
+padding: 0;
+margin: 0;
+font-size: 100%;
+line-height: 1cm;
+}
+
+
+body { 
+            margin: auto;
+            width: 100%;
+            min-height: 320px;
+            font-size: 1.5em;
+            color: #4A4A4A ;
+            line-height: 2em;
+            background-color: #F7F7F7;
+           }
+
+div.palepink {
+    background-color: #F6E3ED;
+}
+
+.headings { margin-left: 3em;}
+
+h1 {color: darkslategray;
+    font-family: 'Open Sans:300', sans-serif;
+    font-size: 2em;
+    padding-bottom: .2em;
+}
+
+h2 {color: darkslategray;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.7em;
+    padding-bottom: .2em}
+
+h3 {color: darkslategray;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5em;
+    padding-bottom: .2em;
+    font-weight: 400}
+
+p.body {color: darkslategray;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 400;
+        font-size: 1em ;
+}
+
+p {color: darkslategray;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 200;
+    font-size: .5em;
+padding-bottom: .1em;}
+
+
+font-family: 'Quicksand', sans-serif;
+font-family: 'Pacifico', cursive;
+
+
+    
+}
