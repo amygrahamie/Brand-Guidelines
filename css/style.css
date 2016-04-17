@@ -24,8 +24,13 @@ div.lightgray {
     background-color: #F4F4F4;
 }
 
+div.turquoise {
+    background-color: #D8F1EB;
+}
+
 .headings { margin-left: 7em;}
 .headings2 { margin-left: 7em;}
+.headings3 { margin-left: 7em;}
 
 h1 {color: darkslategray;
     font-family: 'Open Sans:300', sans-serif;
@@ -59,6 +64,15 @@ p.type {color: darkslategray;
         font-size: .6em;
         padding-top: .5em;
 }
+
+.blockquote1 {margin-top: 1em;
+            border-top: 1px solid white;
+            border-bottom: 1px solid white;
+            margin-left: 7em;
+            margin-right: 7em;
+            color: #5E969E;
+}
+
 
 p {color: darkslategray;
         font-family: 'Open Sans', sans-serif;
