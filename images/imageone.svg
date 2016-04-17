@@ -11,10 +11,6 @@
             <text id="Amy-Elizabeth-Graham" font-family="ReenieBeanie, Reenie Beanie" font-size="45" font-weight="normal" fill="#000000">
                 <tspan x="465.811385" y="395.659574">Amy Elizabeth Graham</tspan>
             </text>
-            <text id="B-R-A-N-D--G-U-I-D-E" font-family="Futura-Book, Futura Bk" font-size="20" font-weight="300" fill="#000000">
-                <tspan x="506.066971" y="413">B R A N D  G U I D E L I N E S</tspan>
-                <tspan x="774.865799" y="413" font-family="ReenieBeanie, Reenie Beanie" font-size="45" font-weight="normal"> </tspan>
-            </text>
             <g id="me" transform="translate(504.127527, 81.000000)">
                 <mask id="mask-2" fill="white">
                     <use xlink:href="#path-1"></use>
