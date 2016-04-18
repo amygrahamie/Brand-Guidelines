@@ -88,14 +88,14 @@ p.type {color: darkslategray;
             padding-right: 1em;
             color: #5E969E;
             font-family: 'Open Sans', sans-serif;
-            font-size: .8em;
+            font-size: 1.3em;
 }
 
 
 p {color: darkslategray;
         font-family: 'Open Sans', sans-serif;
         font-weight: 200;
-    font-size: .5em;
+    font-size: .7em;
 padding-bottom: .1em;}
 
 .paragraph {color: #5E969E;
@@ -104,7 +104,7 @@ padding-bottom: .1em;}
     margin-right: 6em;
     padding-right: 3em;
     padding-top: 1em;
-    font-size: .6em;
+    font-size: 1.3em;
     }
 
 p.example {color: darkslategray;
