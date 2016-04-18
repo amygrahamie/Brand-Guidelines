@@ -6,6 +6,20 @@ line-height: 1cm;
 }
 
 
+<defs>
+  <style type="text/css">
+   <![CDATA[
+    @font-face {
+        font-family: Reenie Beanie;
+        src: url('https://fonts.googleapis.com/css?family=Reenie+Beanie');
+    }
+   ]]>
+ </style>
+</defs>
+<text x="100" y="100" style="font-family: 'Reanie Beanie'; font-weight:normal; font-style: normal">
+ Text using CSS @font-face
+</text>
+
 body { 
             margin: auto;
             width: 100%;
