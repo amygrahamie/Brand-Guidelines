@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="1280px" height="903px" viewBox="0 0 1280 903" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+<svg width="1280px" height="903px" viewBox="0 0 1280 903" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
     <title>Desktop Landscape</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+        <ellipse id="path-1" cx="67.6478477" cy="67.705749" rx="67.6478477" ry="67.705749"></ellipse>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
             <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
-            <feMerge>
-                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
-                <feMergeNode in="SourceGraphic"></feMergeNode>
-            </feMerge>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -26,22 +23,25 @@
                 </text>
             </g>
             <g id="Group-4" transform="translate(573.000000, 711.000000)">
-                <ellipse id="Oval-1" fill="#EFCEDF" opacity="0.9" filter="url(#filter-1)" cx="67.6478477" cy="67.705749" rx="67.6478477" ry="67.705749"></ellipse>
+                <g id="Oval-1" opacity="0.9">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#EFCEDF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
                 <g id="Group-14" transform="translate(33.482578, 25.532206)">
-                    <path id="Line" stroke="#000000" stroke-linecap="square" d="M0.25,73.21713 L0.25,72.4785195"></path>
+                    <path id="Line" stroke="#000000" stroke-linecap="square"></path>
                     <g id="Group-13" transform="translate(0.046083, 0.000000)">
                         <path d="M7.54022853,70.4203563 C5.61200098,73.3975949 2.30560266,73.3975954 2.30560266,73.3975954 L2.30560266,74.3715209 C2.30560266,74.3715209 6.15507031,75.0015752 9.85117516,74.5620519 C13.3273031,74.0657385 15.7137419,72.8539079 15.7137419,72.8539079 C15.7137419,72.8539079 20.0472387,70.4356472 21.9421982,67.1222202 C23.8371577,63.8087932 25.2402024,58.9617438 25.2402024,58.9617438 C25.2402024,58.9617438 26.8579133,52.660517 29.4034607,48.1202833 C31.3605594,44.9264079 34.6077356,45.2629774 34.6077356,45.2629774 L34.6077356,44.2848695 C34.6077356,44.2848695 30.4444238,43.2903216 25.7577499,44.0584998 C22.4682393,44.2848695 18.7356841,47.3400961 18.7356841,47.3400961 C18.7356841,47.3400961 15.2087816,50.7139394 14.009725,53.3314892 C12.7047624,55.6878128 11.1676773,61.0053721 11.1676773,61.0053721 C11.1676773,61.0053721 9.14689427,68.1736859 7.54022853,70.4203563 Z" id="Path-2" fill="#97D0C0"></path>
                         <rect id="Rectangle-1" fill="#000000" x="38.5178036" y="71.2020544" width="29.3201703" height="1.20404661"></rect>
-                        <path d="M61.261771,71.7549121 L33.0664651,-1.355005e-11 L32.268708,8.50366335e-10 L22.3699552,25.2918627 L23.6206164,25.2921663 L26.4168055,18.3218131 L47.040642,71.7549121 L61.261771,71.7549121 Z" id="Path-1" fill="#4A4A4A"></path>
+                        <polygon id="Path-1" fill="#4A4A4A" points="61.261771 71.7549121 33.0664651 -1.355005e-11 32.268708 8.50366335e-10 22.3699552 25.2918627 23.6206164 25.2921663 26.4168055 18.3218131 47.040642 71.7549121"></polygon>
                         <rect id="Rectangle-1" fill="#4A4A4A" x="38.5178036" y="71.2020544" width="29.3201703" height="1.20404661"></rect>
                         <path d="M33.1104966,42.7655492 L14.296031,48.8221555" id="Line" stroke="#000000" stroke-linecap="square"></path>
                         <path d="M22.175519,46.1631576 L22.175519,43.0609935" id="Line" stroke="#000000" stroke-linecap="square"></path>
                         <path d="M14.296031,48.8221555 L18.7403929,44.6859366" id="Line" stroke="#000000" stroke-linecap="square"></path>
                         <path d="M21.9995917,46.1631576 L18.7403929,44.6859366" id="Line" stroke="#000000" stroke-linecap="square"></path>
                         <path d="M22.1477371,42.9132713 L18.7403929,44.6859366" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path id="Line" stroke="#000000" stroke-linecap="square" d="M22.1477371,43.0666882 L33.1104966,42.8166882"></path>
-                        <path id="Line" stroke="#000000" stroke-linecap="square" d="M33.1382785,43.5780208 L33.1382785,42.6916882"></path>
-                        <path id="Line" stroke="#000000" stroke-linecap="square" d="M33.0364239,43.5780208 L29.7772251,44.0780208"></path>
+                        <path id="Line" stroke="#000000" stroke-linecap="square"></path>
+                        <path id="Line" stroke="#000000" stroke-linecap="square"></path>
+                        <path id="Line" stroke="#000000" stroke-linecap="square"></path>
                         <path d="M28.1476257,45.9415745 L29.7772251,43.7257429" id="Line" stroke="#000000" stroke-linecap="square"></path>
                         <path d="M28.1476257,45.9415745 L30.8142429,43.7257429" id="Line" stroke="#000000" stroke-linecap="square"></path>
                         <path d="M28.1476257,46.1461303 L23.9995546,45.6461303" id="Line" stroke="#000000" stroke-linecap="square"></path>
@@ -109,7 +109,7 @@
             <ellipse id="Oval-1" fill="#D8F1EB" cx="163.399581" cy="638.953695" rx="41.962426" ry="41.9536952"></ellipse>
             <ellipse id="Oval-1" fill="#D8F1EB" cx="239.881371" cy="638.953695" rx="41.962426" ry="41.9536952"></ellipse>
             <ellipse id="Oval-1" fill="#D8F1EB" cx="314.296086" cy="638.953695" rx="41.962426" ry="41.9536952"></ellipse>
-            <rect id="Rectangle-80" fill="#F7F7F7" x="0" y="569" width="1280" height="58"></rect>
+            <rect id="Rectangle-80" fill="#FFFFFF" x="0" y="569" width="1280" height="58"></rect>
         </g>
     </g>
 </svg>
