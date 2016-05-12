@@ -20,14 +20,25 @@ line-height: 1cm;
  Text using CSS @font-face
 </text>
 
+.marque {
+    width: 200%;  
+}
+
+.unreadable {
+    width: 80%;
+}
+
+.patternsandmarque
+{ 
+    width: 80%;}
+
 body { 
             margin: auto;
             width: 100%;
             min-height: 320px;
-            font-size: 1.5em;
+            font-size: 1em;
             color: #4A4A4A ;
             line-height: 2em;
-            background-color: #F7F7F7;
            }
 
 div.palepink {
@@ -35,7 +46,14 @@ div.palepink {
 }
 
 div.lightgray {
-    background-color: #F4F4F4;
+    background-color: white;
+}
+
+
+div.darkgrey {
+    background-color: #4A4A4A;
+    padding-top: 4em;
+    padding-bottom: 5em;
 }
 
 div.turquoise {
@@ -46,10 +64,24 @@ div.turquoise {
 .headings2 { margin-left: 7em;}
 .headings3 { margin-left: 7em;}
 
+
+.fontstyle
+
+{padding-left: 15em;
+padding-right: 7em;
+padding-bottom: 4em;
+font-size: 1em;
+color: darkslategray;
+font-family: 'Open Sans', sans-serif;
+text-align: left;
+    padding-top: .2em;
+}
+
 h1 {color: darkslategray;
-    font-family: 'Open Sans:300', sans-serif;
-    font-size: 2em;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5em;
     padding-bottom: .2em;
+    letter-spacing: .2em;
    ;
 }
 
@@ -79,6 +111,14 @@ p.type {color: darkslategray;
         padding-top: .5em;
 }
 
+
+.blockquote { font-size: .8em;
+              text-transform: uppercase;
+            letter-spacing: .1em;
+            font-family: 'Open Sans', sans-serif;
+    
+}
+
 .blockquote1 {margin-top: 1em;
             border-top: 1px solid white;
             border-bottom: 1px solid white;
@@ -88,7 +128,7 @@ p.type {color: darkslategray;
             padding-right: 1em;
             color: #5E969E;
             font-family: 'Open Sans', sans-serif;
-            font-size: 1.3em;
+            font-size: 1.4em;
 }
 
 

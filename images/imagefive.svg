@@ -4,7 +4,7 @@
     <title>Desktop Landscape</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <ellipse id="path-1" cx="67.6478477" cy="67.705749" rx="67.6478477" ry="67.705749"></ellipse>
+        <ellipse id="path-1" cx="59.919095" cy="59.7301527" rx="59.8548465" ry="59.7047345"></ellipse>
         <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
             <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
@@ -21,75 +21,6 @@
                 <text id="Gallery-Type.-White-" font-family="AvenirNext-UltraLight, Avenir Next" font-size="14.8248033" font-weight="300" fill="#000000">
                     <tspan x="1.80346983" y="509.928683">Gallery Type. White Border - 5px. Space - 12px</tspan>
                 </text>
-            </g>
-            <g id="Group-4" transform="translate(573.000000, 711.000000)">
-                <g id="Oval-1" opacity="0.9">
-                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
-                    <use fill="#EFCEDF" fill-rule="evenodd" xlink:href="#path-1"></use>
-                </g>
-                <g id="Group-14" transform="translate(33.482578, 25.532206)">
-                    <path id="Line" stroke="#000000" stroke-linecap="square"></path>
-                    <g id="Group-13" transform="translate(0.046083, 0.000000)">
-                        <path d="M7.54022853,70.4203563 C5.61200098,73.3975949 2.30560266,73.3975954 2.30560266,73.3975954 L2.30560266,74.3715209 C2.30560266,74.3715209 6.15507031,75.0015752 9.85117516,74.5620519 C13.3273031,74.0657385 15.7137419,72.8539079 15.7137419,72.8539079 C15.7137419,72.8539079 20.0472387,70.4356472 21.9421982,67.1222202 C23.8371577,63.8087932 25.2402024,58.9617438 25.2402024,58.9617438 C25.2402024,58.9617438 26.8579133,52.660517 29.4034607,48.1202833 C31.3605594,44.9264079 34.6077356,45.2629774 34.6077356,45.2629774 L34.6077356,44.2848695 C34.6077356,44.2848695 30.4444238,43.2903216 25.7577499,44.0584998 C22.4682393,44.2848695 18.7356841,47.3400961 18.7356841,47.3400961 C18.7356841,47.3400961 15.2087816,50.7139394 14.009725,53.3314892 C12.7047624,55.6878128 11.1676773,61.0053721 11.1676773,61.0053721 C11.1676773,61.0053721 9.14689427,68.1736859 7.54022853,70.4203563 Z" id="Path-2" fill="#97D0C0"></path>
-                        <rect id="Rectangle-1" fill="#000000" x="38.5178036" y="71.2020544" width="29.3201703" height="1.20404661"></rect>
-                        <polygon id="Path-1" fill="#4A4A4A" points="61.261771 71.7549121 33.0664651 -1.355005e-11 32.268708 8.50366335e-10 22.3699552 25.2918627 23.6206164 25.2921663 26.4168055 18.3218131 47.040642 71.7549121"></polygon>
-                        <rect id="Rectangle-1" fill="#4A4A4A" x="38.5178036" y="71.2020544" width="29.3201703" height="1.20404661"></rect>
-                        <path d="M33.1104966,42.7655492 L14.296031,48.8221555" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M22.175519,46.1631576 L22.175519,43.0609935" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M14.296031,48.8221555 L18.7403929,44.6859366" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M21.9995917,46.1631576 L18.7403929,44.6859366" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M22.1477371,42.9132713 L18.7403929,44.6859366" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M28.1476257,45.9415745 L29.7772251,43.7257429" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M28.1476257,45.9415745 L30.8142429,43.7257429" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M28.1476257,46.1461303 L23.9995546,45.6461303" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M25.3328632,51.8504587 L23.9995546,45.6461303" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M25.3328632,51.8504587 L26.5180263,45.9415745" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M25.629154,50.3732376 L28.1476257,46.0892966" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M25.0365724,50.3732376 L20.2959196,46.8279071" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M17.3330116,53.6231239 L20.2959196,46.8279071" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M17.3330116,53.6231239 L14.2219583,48.7482945" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M15.8515576,59.5320081 L14.2219583,48.7482945" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M15.8515576,59.5320081 L17.3330116,53.6231239" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M15.8515576,59.5320081 L10.9627595,54.3617344" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M14.2219583,48.7482945 L10.9627595,54.3617344" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M8.29614232,62.7818944 L10.9627595,54.3617344" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M8.29614232,62.7818944 L12.7405043,56.2821218" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M8.29614232,62.7818944 L23.9995546,56.1343997" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M16.8885754,55.5435113 L23.9995546,56.1343997" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M17.3330116,64.4068375 L23.9995546,56.1343997" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M17.3330116,64.4068375 L18.3700294,58.4979534" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M6.81468834,66.7703912 L18.3700294,58.4979534" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M6.81468834,66.7703912 L8.29614232,62.7818944" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M6.81468834,66.7703912 L17.3330116,64.4068375" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M21.4810828,63.2250607 L17.3330116,64.4068375" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M21.4810828,63.2250607 L23.9995546,56.1343997" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M21.4810828,63.2250607 L9.92574171,72.088387" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M18.221884,68.3953344 L9.92574171,72.088387" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M18.221884,68.3953344 L21.4810828,63.2250607" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M18.221884,68.3953344 L14.5182491,71.3497765" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M9.92574171,72.088387 L14.5182491,71.3497765" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M9.92574171,72.088387 L6.81468834,66.7703912" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M7.70356073,73.565608 L6.81468834,66.7703912" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M7.70356073,73.565608 L9.92574171,72.088387" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M7.70356073,73.565608 L14.5182491,71.3497765" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M7.70356073,73.565608 L3.25919877,71.4974986" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M2.22218098,73.565608 L3.25919877,71.4974986" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M2.22218098,73.6678859 L7.70356073,73.6678859" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M2.22218098,73.565608 L0.148145399,72.5315533" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M3.25919877,71.4974986 L0.148145399,72.5315533" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M0.148145399,73.2701638 L2.22218098,73.7701638" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M7.25912453,69.5771112 L3.25919877,71.4974986" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M7.11097913,68.2476123 L3.25919877,71.4974986" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M6.81468834,66.7703912 L5.33323435,69.7248333" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M16.8885754,55.5435113 L24.888427,50.3732376" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M17.3330116,53.6231239 L24.888427,50.3732376" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M23.9995546,56.1343997 L24.888427,50.3732376" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                        <path d="M23.9995546,56.1343997 L25.3328632,51.8504587" id="Line" stroke="#000000" stroke-linecap="square"></path>
-                    </g>
-                </g>
             </g>
             <ellipse id="Oval-1" fill="#D8F1EB" cx="1126.8864" cy="639.044076" rx="41.962426" ry="41.9536952"></ellipse>
             <ellipse id="Oval-1" fill="#D8F1EB" cx="1201.30111" cy="639.044076" rx="41.962426" ry="41.9536952"></ellipse>
@@ -110,6 +41,77 @@
             <ellipse id="Oval-1" fill="#D8F1EB" cx="239.881371" cy="638.953695" rx="41.962426" ry="41.9536952"></ellipse>
             <ellipse id="Oval-1" fill="#D8F1EB" cx="314.296086" cy="638.953695" rx="41.962426" ry="41.9536952"></ellipse>
             <rect id="Rectangle-80" fill="#FFFFFF" x="0" y="569" width="1280" height="58"></rect>
+            <g id="Group-20" transform="translate(580.000000, 728.000000)">
+                <g id="Group-3" transform="translate(0.000000, 0.125482)">
+                    <g id="Oval-1" opacity="0.9">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#EFCEDF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Group-14" transform="translate(29.625401, 22.612287)">
+                        <path d="M0.267857143,64.5648172 L0.267857143,63.9134907" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                        <g id="Group-13" transform="translate(0.040774, 0.000000)">
+                            <path d="M6.67159764,62.0985475 C4.96550103,64.7239559 2.03999828,64.7239563 2.03999828,64.7239563 L2.03999828,65.5827898 C2.03999828,65.5827898 5.44600902,66.1383885 8.71632427,65.7508051 C11.7920038,65.3131427 13.903526,64.2445182 13.903526,64.2445182 C13.903526,64.2445182 17.7378059,62.1120314 19.4144669,59.1901632 C21.091128,56.2682949 22.3325426,51.9940376 22.3325426,51.9940376 C22.3325426,51.9940376 23.7638939,46.4374478 26.0161954,42.4337487 C27.7478373,39.6173041 30.6209402,39.9141001 30.6209402,39.9141001 L30.6209402,39.0515785 C30.6209402,39.0515785 26.9372401,38.1745597 22.7904688,38.8519596 C19.8799084,39.0515786 16.5773418,41.7457587 16.5773418,41.7457587 C16.5773418,41.7457587 13.4567369,44.7209037 12.395811,47.0291289 C11.2411796,49.1069979 9.88116595,53.7961634 9.88116595,53.7961634 C9.88116595,53.7961634 8.09317622,60.1173737 6.67159764,62.0985475 Z" id="Path-2" fill="#97D0C0"></path>
+                            <rect id="Rectangle-1" fill="#000000" x="34.0805702" y="62.7878697" width="25.9425001" height="1.0617604"></rect>
+                            <polygon id="Path-1" fill="#000000" points="54.2044429 63.2753944 29.2572234 -1.18340893e-11 28.5513675 7.4999041e-10 19.7929465 22.3030388 20.8995321 22.3033065 23.3736016 16.1566633 41.6215815 63.2753944"></polygon>
+                            <rect id="Rectangle-1" fill="#000000" x="34.0805702" y="62.7878697" width="25.9425001" height="1.0617604"></rect>
+                            <path d="M29.2961825,37.7118014 L12.6491347,43.0526783" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M19.6675663,40.7079031 L19.6675663,37.972332" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M12.6491347,43.0526783 L16.5815082,39.4052502" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M19.4652488,40.7079031 L16.5815082,39.4052502" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M19.5963279,37.8420667 L16.5815082,39.4052502" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M19.5963279,38.0482174 L29.2961825,37.7805183" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M29.3674209,38.4282605 L29.3674209,37.6466688" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M29.2306429,38.4282605 L26.3469023,38.9636587" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M24.9050321,40.5125051 L26.3469023,38.5585258" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M24.9050321,40.5125051 L27.2644562,38.5585258" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M24.9050321,40.7873728 L21.2348168,40.2519746" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M22.4145289,45.7231167 L21.2348168,40.2519746" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M22.4145289,45.7231167 L23.4631618,40.5125051" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M22.6766871,44.4204638 L24.9050321,40.6427704" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M22.1523706,44.4204638 L17.9578389,41.2940969" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M15.3362566,47.2863002 L17.9578389,41.2940969" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M15.3362566,47.2863002 L12.5835952,42.9875456" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M14.0254654,52.4969118 L12.5835952,42.9875456" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M14.0254654,52.4969118 L15.3362566,47.2863002" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M14.0254654,52.4969118 L9.6998546,47.9376267" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M12.5835952,42.9875456 L9.6998546,47.9376267" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M7.34043051,55.3627482 L9.6998546,47.9376267" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M7.34043051,55.3627482 L11.272804,49.6310754" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M7.34043051,55.3627482 L21.2348168,49.5008101" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M14.9430192,48.979749 L21.2348168,49.5151472" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M15.3362566,56.7956664 L21.2348168,49.5008101" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M15.3362566,56.7956664 L16.2538104,51.5850548" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M6.02963934,58.879911 L16.2538104,51.5850548" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M6.02963934,58.879911 L7.34043051,55.3627482" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M6.02963934,58.879911 L15.3362566,56.7956664" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M19.0064718,55.7535441 L15.3362566,56.7956664" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M19.0064718,55.7535441 L21.2348168,49.5008101" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M19.0064718,55.7535441 L8.78230078,63.5694614" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M16.1227313,60.3128292 L8.78230078,63.5694614" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M16.1227313,60.3128292 L19.0064718,55.7535441" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M16.1227313,60.3128292 L12.8457534,62.918135" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M8.78230078,63.5694614 L12.8457534,62.918135" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M8.78230078,63.5694614 L6.02963934,58.879911" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M6.81611404,64.8721143 L6.02963934,58.879911" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M6.81611404,64.8721143 L8.78230078,63.5694614" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M6.81611404,64.8721143 L12.8457534,62.918135" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M6.81611404,64.8721143 L2.88374056,63.0484003" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M1.96618674,64.8721143 L2.88374056,63.0484003" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M1.96618674,65.0095482 L6.81611404,65.0095482" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M1.96618674,64.8721143 L0.131079116,63.9602573" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M2.88374056,63.0484003 L0.131079116,63.9602573" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M0.131079116,64.6115838 L1.96618674,65.146982" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M6.42287669,61.3549515 L2.88374056,63.0484003" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M6.29179758,60.1825639 L2.88374056,63.0484003" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M6.02963934,58.879911 L4.71884818,61.4852168" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M14.9430192,48.979749 L22.0212915,44.4204638" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M15.3362566,47.2863002 L22.0212915,44.4204638" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M21.2348168,49.5008101 L22.0212915,44.4204638" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                            <path d="M21.2348168,49.5008101 L22.4145289,45.7231167" id="Line" stroke="#000000" stroke-linecap="square"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
         </g>
     </g>
 </svg>
